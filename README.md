@@ -11,3 +11,9 @@
 ## TUẦN 2
  * Hoàn thành 5 bài tập ở phần B - cơ bản của Buổi 2 trong bài tập thực hành Lab01 
  * (15/09/2026)
+
+## TUẦN 3
+ * Hoàn thành các bài tập trong Lab02 bao gồm thực hành 1 và thực hành 2
+ * Thực hành 1 hoàn thành ngày 20/09/2026
+ * Thực hành 2 hoàn thành ngày 25/09/2026
+ * (25/09/2026)
