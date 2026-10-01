@@ -17,3 +17,8 @@
  * Thực hành 1 hoàn thành ngày 20/09/2026
  * Thực hành 2 hoàn thành ngày 25/09/2026
  * (25/09/2026)
+
+## TUẦN 4
+ * Hoàn thành các bài tập trong Lab03
+ * Tải LinQPad và chạy thử trên đó, kết quả được đưa vào bản báo cáo
+ * (01/10/2026)
